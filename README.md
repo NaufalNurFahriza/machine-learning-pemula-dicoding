@@ -1,14 +1,10 @@
 # Project Machine Learning Clustering dan Klasifikasi dengan dataset : Fish length weight exploration
 
-Repository ini berisi proyek data analytics yang saya kerjakan. Proyek ini dideploy menggunakan **Streamlit**.
-
-[![Kaggle](https://www.kaggle.com/static/images/site-logo.svg)](https://www.kaggle.com/datasets/taweilo/fish-species-sampling-weight-and-height-data)
-
 Repository ini berisi proyek machine learning pemula dengan menggunakan **Google Colab** dan dataset sekunder dari **Kaggle**.
 
 ## Deskripsi
 
-Proyek ini bertujuan untuk menganalisis data pada **Fish Length Weight Exploration**. Tujuan akhirnya adalah untuk menghasilkan wawasan dan informasi yang berguna dari data yang dianalisis. Analisis ini mencakup:
+Proyek ini bertujuan untuk menganalisis data pada [![Kaggle]](https://www.kaggle.com/datasets/taweilo/fish-species-sampling-weight-and-height-data) **Fish Length Weight Exploration**. Tujuan akhirnya adalah untuk menghasilkan wawasan dan informasi yang berguna dari data yang dianalisis. Analisis ini mencakup:
 
 1. **Clustering** dengan **K-Means**
 2. **Klasifikasi** dengan **Logistic Regression** dan **Random Forest**
