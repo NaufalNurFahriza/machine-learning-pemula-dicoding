@@ -34,11 +34,11 @@ machine-learning-pemula-dicoding
 
 1. **Clone repository ini** ke komputer lokal Anda menggunakan perintah berikut:
    ```bash
-   git clone https://github.com/NaufalNurFahriza/data-analyst-python-dicoding.git
+   git clone https://github.com/NaufalNurFahriza/machine-learning-pemula-dicoding.git
    ```
 2. **Masuk ke direktori proyek**:
    ```bash
-   cd data-analyst-python-dicoding
+   cd machine-learning-pemula-dicoding
    ```
 3. **Buka file notebook** di **Google Colab** atau **Jupyter Notebook** untuk menjalankan kode.
 
